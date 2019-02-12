@@ -476,7 +476,6 @@
     margin: 20px;
     background-color: rgba(0, 0, 0, 0.7);
     max-width: 100%;
-    background-position: none;
     opacity: 1;
 }
 
@@ -495,7 +494,6 @@
 
 .images {
     max-width: 100%;
-    max-height: auto;
     margin: auto;
 }
 
@@ -513,7 +511,11 @@
 .customList {
     height: 100px;
     columns: 2;
-    -webkit-columns: 2;
-    -moz-columns: 2;
 }
+
+.image2 {
+    margin: 0px;
+    max-width: 100%;
+}
+
 
